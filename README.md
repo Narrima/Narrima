@@ -12,12 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey peoples ✌
+## Hey peoples ✌
 
 
 
-#### I'm Suzana Nárrima
+### I'm Suzana Nárrima. 👩🏽‍💻
 
+* 📚 I'm currently studyng the 4º semester of Computer Science
 
+* 🏡 From Brasília - DF, Brazil
 
-### Connect with me here: :telephone: 
+* :telephone: Connect with me here: ⤵
+
+  <a href="https://www.linkedin.com/in/suzananarrima/" target="_blank">
+  	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
