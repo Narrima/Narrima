@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Narrima/Narrima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey peoples ✌
+### Hey peoples ✌
 
 
 
-### I'm Suzana Nárrima
+#### I'm Suzana Nárrima
 
 
 
-## Connect with me here: :telephone: 
+### Connect with me here: :telephone: 
