@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey peoples ✌
+
+
+
+### I'm Suzana Nárrima
+
+
+
+## Connect with me here: :telephone: 
