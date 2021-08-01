@@ -22,8 +22,16 @@ Here are some ideas to get you started:
 
 * 🏡 From Brasília - DF, Brazil
 
-* :pager: Connect with me here: ⤵
+ <div>
+  <a href="https://www.linkedin.com/in/suzananarrima/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narrima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narrima&layout=compact&langs_count=7&theme=dark"/>
+ </div>
 
-  <a href="https://www.linkedin.com/in/suzananarrima/" target="_blank">
-  	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>   
+##
+                                                                                                                                          
+<div>
+   <a href="https://www.linkedin.com/in/suzananarrima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  
+![Snake animation](https://www.linkedin.com/in/suzananarrima/narrima/blob/output/github-contribution-grid-snake.svg)
