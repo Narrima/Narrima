@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I'm Suzana Nárrima. 👩🏽‍💻
 
-* 📚 I'm currently studyng the 4º semester of Computer Science
+* 📚 I'm currently studyng the 7º semester of Computer Science
 
 * 🏡 From Brasília - DF, Brazil
 </div>
